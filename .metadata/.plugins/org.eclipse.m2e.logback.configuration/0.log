@@ -107,3 +107,7 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2017-06-30 00:23:18,030 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-06-30 00:23:18,060 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-06-30 00:23:18,061 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mave77\xyz\src\test\resources
+2017-06-30 00:24:36,106 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-30 00:24:36,107 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-30 00:24:36,109 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-06-30 00:24:36,132 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\mave77\xyz\src\test\resources
